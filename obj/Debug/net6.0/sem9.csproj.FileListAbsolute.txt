@@ -1,0 +1,15 @@
+F:\manu\C#\SemC#\Homeworks\sem9\bin\Debug\net6.0\sem9.exe
+F:\manu\C#\SemC#\Homeworks\sem9\bin\Debug\net6.0\sem9.deps.json
+F:\manu\C#\SemC#\Homeworks\sem9\bin\Debug\net6.0\sem9.runtimeconfig.json
+F:\manu\C#\SemC#\Homeworks\sem9\bin\Debug\net6.0\sem9.dll
+F:\manu\C#\SemC#\Homeworks\sem9\bin\Debug\net6.0\sem9.pdb
+F:\manu\C#\SemC#\Homeworks\sem9\obj\Debug\net6.0\sem9.csproj.AssemblyReference.cache
+F:\manu\C#\SemC#\Homeworks\sem9\obj\Debug\net6.0\sem9.GeneratedMSBuildEditorConfig.editorconfig
+F:\manu\C#\SemC#\Homeworks\sem9\obj\Debug\net6.0\sem9.AssemblyInfoInputs.cache
+F:\manu\C#\SemC#\Homeworks\sem9\obj\Debug\net6.0\sem9.AssemblyInfo.cs
+F:\manu\C#\SemC#\Homeworks\sem9\obj\Debug\net6.0\sem9.csproj.CoreCompileInputs.cache
+F:\manu\C#\SemC#\Homeworks\sem9\obj\Debug\net6.0\sem9.dll
+F:\manu\C#\SemC#\Homeworks\sem9\obj\Debug\net6.0\refint\sem9.dll
+F:\manu\C#\SemC#\Homeworks\sem9\obj\Debug\net6.0\sem9.pdb
+F:\manu\C#\SemC#\Homeworks\sem9\obj\Debug\net6.0\sem9.genruntimeconfig.cache
+F:\manu\C#\SemC#\Homeworks\sem9\obj\Debug\net6.0\ref\sem9.dll
